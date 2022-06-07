@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[My Resume](https://adam-z-balatoni.github.io/resume/)
+
 <!--
 **adam-z-balatoni/adam-z-balatoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
