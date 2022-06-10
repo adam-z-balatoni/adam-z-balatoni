@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Currently studying Software Development at Eötvös Loránd University. I have one semester
+left and I would like to further enrich my work experience during this period. I thrive to
+understand the intricacies of C# development and get a much more in-depth comprehension
+about the .NET ecosystem.
+
+Looking for a suitable developer position as part of an energetic team of professionals while
+completing my last semester online.
+
 [My Resume](https://adam-z-balatoni.github.io/resume/)
 
 <!--
