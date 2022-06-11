@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Adam 👋
 
 Currently studying Software Development at Eötvös Loránd University. I have one semester
 left and I would like to further enrich my work experience during this period. I thrive to
