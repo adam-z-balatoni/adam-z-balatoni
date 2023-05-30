@@ -1,12 +1,8 @@
 ### Hey there, I'm Adam 👋
 
-Currently studying Software Development at Eötvös Loránd University. I have one semester
-left and I would like to further enrich my work experience during this period. I thrive to
-understand the intricacies of C# development and get a much more in-depth comprehension
-about the .NET ecosystem.
+Actively seeking a part-time position as a Junior Developer, dedicating approximately 20 hours per week to this role. My professional background includes valuable experience working with C# and Azure Cloud. Eager to continue advancing in this field; however, I am also open to exploring new stacks and technologies to broaden my skillset.
 
-Looking for a suitable developer position as part of an energetic team of professionals while
-completing my last semester online.
+My primary objective is to join a team environment that fosters growth and presents abundant learning opportunities, allowing me to actively participate in projects and tasks that align with my skill level. Open to new challenges and enthusiastic to work with seasoned software engineers.
 
 
 <!--
