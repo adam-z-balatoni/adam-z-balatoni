@@ -1,8 +1,6 @@
 ### Hey there, I'm Adam 👋
 
-Actively seeking a part-time position as a Junior Developer, dedicating approximately 20 hours per week to this role. My professional background includes valuable experience working with C# and Azure Cloud. Eager to continue advancing in this field; however, I am also open to exploring new stacks and technologies to broaden my skillset.
 
-My primary objective is to join a team environment that fosters growth and presents abundant learning opportunities, allowing me to actively participate in projects and tasks that align with my skill level. Open to new challenges and enthusiastic to work with seasoned software engineers.
 
 
 <!--
